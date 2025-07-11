@@ -19,32 +19,41 @@ POPP is a complete mobile application for managing student attendance, built wit
 
 ## Screenshots
 
-### Login Page
-![Login](screenshot/PageConnexion.png)
+### 1. Login Page
+![Connexion](screenshot/PageConnexion.png)
+_Ecran d’authentification sécurisé pour tous les utilisateurs._
 
-### Student Interface
-![Student Interface](screenshot/InterfaceEtudiant.png)
+### 2. Student Interface
+![Étudiant](screenshot/InterfaceEtudiant.png)
+_Vue personnalisée pour les étudiants : emploi du temps, présence, statistiques._
 
-### Teacher Interface
-![Teacher Interface](screenshot/InterfaceEnseignant.png)
+### 3. Teacher Interface
+![Enseignant](screenshot/InterfaceEnseignant.png)
+_Gestion des cours, pointage des présences, accès rapide aux séances._
 
-### Admin Dashboard
-![Admin Dashboard](screenshot/TableauDeBordAdmin.png)
+### 4. Admin Dashboard
+![Admin](screenshot/TableauDeBordAdmin.png)
+_Supervision globale, gestion des utilisateurs et des droits._
 
-### Scolarité Interface
-![Scolarité Interface](screenshot/InterfaceScolarité.png)
+### 5. Scolarité Interface
+![Scolarité](screenshot/InterfaceScolarité.png)
+_Gestion avancée des emplois du temps, création d’identifiants, rapports._
 
-### Create Credentials
-![Create Credentials](screenshot/CreerIdentifiants.png)
+### 6. Create Credentials
+![Créer Identifiants](screenshot/CreerIdentifiants.png)
+_Ajout rapide de nouveaux utilisateurs par la scolarité._
 
-### Manage Timetable
-![Manage Timetable](screenshot/GererEmploiDuTemps.png)
+### 7. Manage Timetable
+![Gérer Emploi du Temps](screenshot/GererEmploiDuTemps.png)
+_Modification et organisation des séances et cours._
 
-### Timetable View
-![Timetable](screenshot/EmploiDuTemps.png)
+### 8. Timetable View
+![Emploi du Temps](screenshot/EmploiDuTemps.png)
+_Visualisation claire de l’emploi du temps pour chaque utilisateur._
 
-### Student Statistics
-![Student Statistics](screenshot/StatsEleVES.png)
+### 9. Student Statistics
+![Statistiques Élèves](screenshot/StatsEleVES.png)
+_Analyse graphique des présences et performances._
 
 ---
 
