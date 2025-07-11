@@ -17,11 +17,6 @@ POPP is a complete mobile application for managing student attendance, built wit
 
 ---
 
-## Project Poster
-[![PosterPOPP](PosterPOPP.png)](PosterPOPP.png)
-
----
-
 ## Documentation
 - [User Guide (PDF)](Mode%20d’emploi.pdf)  
   _Comprehensive instructions for using the app._
