@@ -1,101 +1,101 @@
-# POPP - Application mobile de gestion de présences
+# POPP - Mobile Attendance Management
 
 ![Poster](PosterPOPP.png)
 
-## Présentation
-POPP est une application mobile complète pour la gestion des présences étudiantes, développée avec Flutter. Elle est conçue pour les établissements scolaires afin de simplifier le suivi, le reporting et la gestion des cours.
+## Overview
+POPP is a complete mobile application for managing student attendance, built with Flutter. It is designed for educational institutions to streamline attendance tracking, reporting, and course management.
 
 ---
 
-## Fonctionnalités principales
-- **Gestion des présences** : Pointage, suivi et export des présences en toute simplicité.
-- **Gestion des cours et séances** : Création, édition et consultation des cours et séances.
-- **Statistiques** : Visualisation graphique des présences et des cours.
-- **Rôles utilisateurs** : Prise en charge des rôles admin, enseignant, étudiant, scolarité.
-- **Mode hors-ligne** : Fonctionne même sans connexion internet.
-- **Interface moderne** : Expérience utilisateur intuitive et agréable.
+## Key Features
+- **Attendance Management**: Take, track, and export student attendance easily.
+- **Course & Session Management**: Create, edit, and view courses and sessions.
+- **Statistics**: Visualize attendance and course statistics.
+- **User Roles**: Supports admin, teacher, and student roles.
+- **Offline Support**: Works seamlessly even without internet.
+- **Modern UI**: Intuitive and user-friendly interface.
 
 ---
 
-## Captures d’écran
+## Screenshots
 
-### 1. Page de connexion
-![Connexion](screenshot/PageConnexion.png)
-_Écran d’authentification sécurisé pour tous les utilisateurs._
+### 1. Login Page
+![Login](screenshot/PageConnexion.png)
+_Secure authentication screen for all users._
 
-### 2. Interface étudiant
-![Étudiant](screenshot/InterfaceEtudiant.png)
-_Vue personnalisée pour les étudiants : emploi du temps, présence, statistiques._
+### 2. Student Interface
+![Student](screenshot/InterfaceEtudiant.png)
+_Customized view for students: schedule, attendance, and statistics._
 
-### 3. Interface enseignant
-![Enseignant](screenshot/InterfaceEnseignant.png)
-_Gestion des cours, pointage des présences, accès rapide aux séances._
+### 3. Teacher Interface
+![Teacher](screenshot/InterfaceEnseignant.png)
+_Course management, attendance marking, and quick access to sessions._
 
-### 4. Tableau de bord administrateur
+### 4. Admin Dashboard
 ![Admin](screenshot/TableauDeBordAdmin.png)
-_Supervision globale, gestion des utilisateurs et des droits._
+_Global supervision, user and permissions management._
 
-### 5. Interface scolarité
-![Scolarité](screenshot/InterfaceScolarité.png)
-_Gestion avancée des emplois du temps, création d’identifiants, rapports._
+### 5. Registrar Interface
+![Registrar](screenshot/InterfaceScolarité.png)
+_Advanced schedule management, credential creation, and reports._
 
-### 6. Création d’identifiants
-![Créer Identifiants](screenshot/CreerIdentifiants.png)
-_Ajout rapide de nouveaux utilisateurs par la scolarité._
+### 6. Create Credentials
+![Create Credentials](screenshot/CreerIdentifiants.png)
+_Fast addition of new users by the registrar._
 
-### 7. Gestion de l’emploi du temps
-![Gérer Emploi du Temps](screenshot/GererEmploiDuTemps.png)
-_Modification et organisation des séances et cours._
+### 7. Manage Timetable
+![Manage Timetable](screenshot/GererEmploiDuTemps.png)
+_Edit and organize sessions and courses._
 
-### 8. Vue emploi du temps
-![Emploi du Temps](screenshot/EmploiDuTemps.png)
-_Visualisation claire de l’emploi du temps pour chaque utilisateur._
+### 8. Timetable View
+![Timetable](screenshot/EmploiDuTemps.png)
+_Clear visualization of the schedule for each user._
 
-### 9. Statistiques élèves
-![Statistiques Élèves](screenshot/StatsEleVES.png)
-_Analyse graphique des présences et performances._
+### 9. Student Statistics
+![Student Statistics](screenshot/StatsEleVES.png)
+_Graphical analysis of attendance and performance._
 
 ---
 
 ## Documentation
-- [Mode d’emploi (PDF)](Mode%20d’emploi.pdf)  
-  _Guide complet d’utilisation de l’application._
-- [Rapport de projet (PDF)](RapportPOPP.pdf)  
-  _Documentation technique et fonctionnelle détaillée._
+- [User Guide (PDF)](Mode%20d’emploi.pdf)  
+  _Comprehensive instructions for using the app._
+- [Project Report (PDF)](RapportPOPP.pdf)  
+  _Detailed technical and functional documentation._
 
 ---
 
-## Pour démarrer
-1. **Cloner le dépôt**
+## Getting Started
+1. **Clone the repository**
    ```bash
-   git clone https://github.com/<VOTRE-UTILISATEUR>/<VOTRE-DEPOT>.git
-   cd <VOTRE-DEPOT>
+   git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO>.git
+   cd <YOUR-REPO>
    ```
-2. **Installer les dépendances**
+2. **Install dependencies**
    ```bash
    flutter pub get
    ```
-3. **Lancer l’application**
+3. **Run the app**
    ```bash
    flutter run
    ```
 
 ---
 
-## Ressources
-- **Poster** : `PosterPOPP.png`
-- **Mode d’emploi** : `Mode d’emploi.pdf`
-- **Rapport** : `RapportPOPP.pdf`
-- **Captures d’écran** : voir `/screenshot/`
+## Assets
+- **Poster**: `PosterPOPP.png`
+- **User Guide**: `Mode d’emploi.pdf`
+- **Project Report**: `RapportPOPP.pdf`
+- **Screenshots**: see `/screenshot/`
 
 ---
 
-## Auteurs
+## Authors
 - Zakaria El
 - Nabil
 - M. Pony
 
 ---
 
-## Licence
-Ce projet est destiné à un usage éducatif.
+## License
+This project is for educational purposes.
