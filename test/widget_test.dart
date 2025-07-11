@@ -11,6 +11,10 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:frontend/main.dart';
 
 void main() {
+  testWidgets('Branding test: POPP title is visible on login screen', (WidgetTester tester) async {
+    await tester.pumpWidget(MyApp());
+    expect(find.text('POPP'), findsOneWidget);
+  });
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
     await tester.pumpWidget(MyApp());

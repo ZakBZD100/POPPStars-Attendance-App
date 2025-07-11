@@ -1,12 +1,13 @@
+// Copyright (c) 2025 Zakaria El, Nabil, M. Pony
+// SSH credentials are now loaded from environment variables for security.
 import 'dart:io';
 import 'package:dartssh2/dartssh2.dart';
 import 'package:flutter/foundation.dart';
 
-
-const host = '10.74.251.68';
-const port = 22;
-const username = 'groupe2';
-const password = 'GaussFFT';
+final host = Platform.environment['SSH_HOST'] ?? '10.74.251.68';
+final port = int.tryParse(Platform.environment['SSH_PORT'] ?? '22') ?? 22;
+final username = Platform.environment['SSH_USERNAME'] ?? 'groupe2';
+final password = Platform.environment['SSH_PASSWORD'] ?? 'GaussFFT';
 
 
 Future<void> uploadFile({

@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore database and sensitive files
+*.db
+.env
+.env.*
+# Ignore IDE and OS files
+.DS_Store
+.idea/
+.vscode/
+# Ignore build outputs
+build/
