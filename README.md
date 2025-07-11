@@ -100,9 +100,13 @@ _Graphical analysis of attendance and performance._
 ---
 
 ## Authors
-- Zakaria El
-- Nabil
-- M. Pony
+- Maya NABI
+- Enes OZKOSAR
+- Zakaria EL BOUZIDI
+- Nabil DAHMANI
+- Touan BLOUET
+- Jean NOVELLO
+- Hayat LOTFI
 
 ---
 
