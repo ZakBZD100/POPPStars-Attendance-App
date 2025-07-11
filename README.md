@@ -17,6 +17,37 @@ POPP is a complete mobile application for managing student attendance, built wit
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login](screenshot/PageConnexion.png)
+
+### Student Interface
+![Student Interface](screenshot/InterfaceEtudiant.png)
+
+### Teacher Interface
+![Teacher Interface](screenshot/InterfaceEnseignant.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshot/TableauDeBordAdmin.png)
+
+### Scolarité Interface
+![Scolarité Interface](screenshot/InterfaceScolarité.png)
+
+### Create Credentials
+![Create Credentials](screenshot/CreerIdentifiants.png)
+
+### Manage Timetable
+![Manage Timetable](screenshot/GererEmploiDuTemps.png)
+
+### Timetable View
+![Timetable](screenshot/EmploiDuTemps.png)
+
+### Student Statistics
+![Student Statistics](screenshot/StatsEleVES.png)
+
+---
+
 ## Documentation
 - [User Guide (PDF)](Mode%20d’emploi.pdf)  
   _Comprehensive instructions for using the app._
@@ -46,6 +77,7 @@ POPP is a complete mobile application for managing student attendance, built wit
 - **Poster**: `PosterPOPP.png`
 - **User Guide**: `Mode d’emploi.pdf`
 - **Project Report**: `RapportPOPP.pdf`
+- **Screenshots**: see `/screenshot/`
 
 ---
 
