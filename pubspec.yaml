@@ -1,0 +1,53 @@
+name: frontend
+description: "Application mobile de gestion de présences."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_keyboard_visibility: ^6.0.0
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  csv: ^5.0.2
+  shared_preferences: ^2.0.15
+  intl: ^0.20.2
+  fl_chart: ^0.64.0
+  path_provider: ^2.0.15
+  dartssh2: ^2.8.2
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.2.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo_popp.png
+    - assets/images/logo_popp2.png
+    - assets/eleves.csv
+    - assets/edt2.ics
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/logo_popp2.png"
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/logo_popp2.png
+  android: true
+  ios: false
+  android_gravity: center
+
