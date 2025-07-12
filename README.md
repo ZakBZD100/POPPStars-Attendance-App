@@ -7,7 +7,7 @@ POPP is a complete mobile application for managing student attendance, built wit
 
 ---
 
-⚠️ The report is written in French, as required by the French academic system.”
+⚠️ The report is written in French, as required by the French academic system.
 
 ---
 
