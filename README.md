@@ -7,6 +7,10 @@ POPP is a complete mobile application for managing student attendance, built wit
 
 ---
 
+⚠️ The report is written in French, as required by the French academic system.”
+
+---
+
 ## Key Features
 - **Attendance Management**: Take, track, and export student attendance easily.
 - **Course & Session Management**: Create, edit, and view courses and sessions.
